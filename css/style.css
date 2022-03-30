@@ -176,7 +176,7 @@ header .container h2::before {
     font-size: 35px;
   }
   header .container h2::before {
-    top: 23px;
+    top: 30%;
   }
   header .container .logo img {
     margin-left: 5px;
