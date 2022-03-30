@@ -163,7 +163,7 @@ header .container h2::before {
   content: attr(data-text);
   position: absolute;
   left: 0;
-  top: 11px;
+  top: 21%;
   -webkit-text-fill-color: red;
   overflow: hidden;
   transition: 0.3s;
