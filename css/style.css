@@ -528,6 +528,11 @@ header nav .form i {
 }
 
 @media (max-width: 767px) {
+  .information .info-box i {
+    margin-left: 0;
+  }
+
+@media (max-width: 767px) {
   .information .info-box {
     flex-direction: column;
     text-align: center;
