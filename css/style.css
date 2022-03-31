@@ -882,7 +882,7 @@ header nav .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
-  background-image: url(./imgs/africa.jpg);
+  background-image: url(../imgs/africa.jpg);
   background-size: cover;
   background-position: 38% 25%;
   background-attachment: fixed;
