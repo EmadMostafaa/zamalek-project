@@ -527,6 +527,11 @@ header nav .form i {
   color: var(--main-color);
 }
 
+@media (max-width: 767px) {
+  .information .info-box i {
+    margin-left: 0;
+  }
+}
 
 @media (max-width: 767px) {
   .information .info-box {
