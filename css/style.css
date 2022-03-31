@@ -496,7 +496,7 @@ header nav .form i {
 .information {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(./imgs/zsc2.jpg);
+  background-image: url(../imgs/zsc2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
